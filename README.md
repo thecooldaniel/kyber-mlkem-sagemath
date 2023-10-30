@@ -1,2 +1,2 @@
 # kyber-sagemath
-A toy example of Kybert (ML-KEM) in SageMath
+A toy example of Kyber (ML-KEM) in SageMath
